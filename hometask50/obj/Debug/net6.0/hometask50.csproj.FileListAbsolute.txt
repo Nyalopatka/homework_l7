@@ -1,0 +1,15 @@
+C:\C#\work\Новая папка (6)\hometask50\bin\Debug\net6.0\hometask50.exe
+C:\C#\work\Новая папка (6)\hometask50\bin\Debug\net6.0\hometask50.deps.json
+C:\C#\work\Новая папка (6)\hometask50\bin\Debug\net6.0\hometask50.runtimeconfig.json
+C:\C#\work\Новая папка (6)\hometask50\bin\Debug\net6.0\hometask50.dll
+C:\C#\work\Новая папка (6)\hometask50\bin\Debug\net6.0\hometask50.pdb
+C:\C#\work\Новая папка (6)\hometask50\obj\Debug\net6.0\hometask50.csproj.AssemblyReference.cache
+C:\C#\work\Новая папка (6)\hometask50\obj\Debug\net6.0\hometask50.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\work\Новая папка (6)\hometask50\obj\Debug\net6.0\hometask50.AssemblyInfoInputs.cache
+C:\C#\work\Новая папка (6)\hometask50\obj\Debug\net6.0\hometask50.AssemblyInfo.cs
+C:\C#\work\Новая папка (6)\hometask50\obj\Debug\net6.0\hometask50.csproj.CoreCompileInputs.cache
+C:\C#\work\Новая папка (6)\hometask50\obj\Debug\net6.0\hometask50.dll
+C:\C#\work\Новая папка (6)\hometask50\obj\Debug\net6.0\refint\hometask50.dll
+C:\C#\work\Новая папка (6)\hometask50\obj\Debug\net6.0\hometask50.pdb
+C:\C#\work\Новая папка (6)\hometask50\obj\Debug\net6.0\hometask50.genruntimeconfig.cache
+C:\C#\work\Новая папка (6)\hometask50\obj\Debug\net6.0\ref\hometask50.dll
